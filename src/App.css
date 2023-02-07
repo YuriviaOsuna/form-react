@@ -1,0 +1,40 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.contenedor-formulario {
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+}
+
+h1 {
+  color: black;
+  font-size: 2vw;
+}
+
+.logo {
+  width: 31vw;
+  height: 14vh;
+  background-image: url(Imagenes/logo.png);
+  background-size: 12vw;
+  background-repeat: no-repeat;
+  float: left;
+  margin-left: 2vw;
+}
+
+.contenedor-encabezado {
+  width: 66vw;
+  height: 14vh;
+}
+
+.contenedor-datos {
+  width: 40vw;
+  height: 75vh;
+  margin: 0px auto;
+}
+
+#nombreCompleto {
+  width: 100%;
+}
